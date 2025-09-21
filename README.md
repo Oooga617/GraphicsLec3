@@ -5,11 +5,14 @@
 # github desktop to make a new repository and link my unity project with it and then publish it publically while including in the ReadMe and gitignore the unity. 
 
 # the inclass-activity:
-# trying to do the code for the shader was difficult to say the least. It is mainly that to my frustration despite seemingly copying the code from the slides perfectly,
-# there is an error that keeps popping up and Unity does not do a good job of telling me what is wrong. My issue is mainly from grammar mistakes, like a missing colon or typo
-# that it very hard for me to spot. 
-# with that said, the only thing that keeps me want to at least try is perseverence on my end, and after using Shader Graph in my last tutorial i am kind of excited to try and 
-# successfully make more shaders that work in the future. I personally think I'm more comfortable with Shader Graph than Shader Lab honestly. 
+# So, I tried to follow along and code in the shaders as shown by the slides, but unfortuantly because I'm new to shaders I keep getting errors. Errors that Unity cannot describe
+# well enough on what is wrong other than line numnbers that supposedly the issue resides in. 9 times out of 10 it is always a syntax error, that my Visual Studio cannot point out.
+# It is very hard for me to find these errors, and it is only when I ask help or at the very least try my best to persevere and constantly compare my code to find an error that I 
+# was able to fix it. It is a very, very frustrating cycle that I hope one day I could break. 
+# With all of that said, in terms of opportunity, obviously this just means there is room for growth in learning and getting used to Shaders. Along with that from using both
+# Shader Lab and Shader Graph, I think I personally prefer Shader Graphy only because it feels easier to find errors and program shaders with than to constantly sit there by my
+# computer and become confused on what could possibly be wrong with my script. Though thankfully, I got my shader working with the reflection and skybox attributes implemented, and
+# I am kind of excited to see what more shaders we can program into Unity.
 
 
 <img width="1077" height="457" alt="reflection1" src="https://github.com/user-attachments/assets/d13754ed-12b7-4730-95c6-8164292df332" />
